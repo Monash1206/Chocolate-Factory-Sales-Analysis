@@ -1,5 +1,9 @@
 Sales Performance Analysis:
 
+Objective:
+
+The objective is to leverage key performance indicators, team evaluations, and product analyses to drive informed business strategies, identify growth opportunities, and continually improve operational efficiency, ultimately contributing to the long-term success and competitiveness of the Chocolate Factory in the market.
+
 Dashboard Overview 📊 🍫:
 The Chocolate Factory dashboard provides a comprehensive insight into critical performance indicators, giving a real-time view of key business metrics.
 
